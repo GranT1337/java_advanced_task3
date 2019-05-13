@@ -1,0 +1,6 @@
+2019-05-13 11:18:33 INFO  Main:15 - public void entity.Entity.firstMethod()
+2019-05-13 11:18:33 INFO  Main:17 - @annotations.Secured(name=strict, value=2)
+2019-05-13 11:18:33 INFO  Main:15 - private void entity.Entity.secondMethod()
+2019-05-13 11:18:33 INFO  Main:17 - @annotations.Secured(name=hey, value=5)
+2019-05-13 11:18:33 INFO  Main:17 - @annotations.SecondAnnotation()
+2019-05-13 11:18:33 INFO  Main:15 - public void entity.Entity.thirdMethod()
